@@ -1,0 +1,2 @@
+class MusicHistory < ApplicationRecord
+end
