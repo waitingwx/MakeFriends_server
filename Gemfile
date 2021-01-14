@@ -64,7 +64,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # gem "paperclip"
 gem "paperclip", git: "git://github.com/thoughtbot/paperclip.git"
-gem 'rails_admin','~> 1.2'
+gem 'rails_admin','~> 2.0'
 gem 'rails_admin_tag_list'
 gem 'rails_admin_material'
 gem 'cancancan', '~> 2.0'
